@@ -4,3 +4,13 @@ body {
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+
+iframe {
+    border: none;
+    width: 480px;
+    height: 320px;
+}
+
+#welcome1 {
+    text-align: center;
+}
